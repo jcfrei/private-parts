@@ -3,7 +3,7 @@
     {
       "headerImage": "http://placehold.it/250x250"
     , "headline": "Short Form Privacy Policy"
-    , "subHeading": "A statement about your short form privacy policy."
+    , "subHeading": "A statement about your short form privacy policy. Be sure to include a <a href='#'>link</a> to your long form Privacy Policy."
     , "footerContent": "This short form privacy policy was built with <a href='http://lookout.github.io/private-parts'>Private Parts</a>."
     , "collectedSectionHeader": "What do we collect?"
     , "sharedSectionHeader": "Who do we share with?"
